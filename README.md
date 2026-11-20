@@ -1,6 +1,6 @@
 System Requirements & Architecture Specification
 
-Rwanda -FOOTBALL LEAGUE MANAGEMENT SYSTEM ANALYSIS
+RWANDA-FOOTBALL LEAGUE MANAGEMENT SYSTEM ANALYSIS
 1. Brief Introduction
 The Rwanda Football League Management System is a modern React-based web application designed to improve the management and organization of football league activities. The system provides a centralized platform where league administrators can manage football teams, schedule matches, record results, and publish football news. It also allows football fans to access league information, follow their favorite teams, and stay updated on upcoming matches and results. The system aims to improve communication between league administrators, football teams, and supporters while making football information easily accessible.
 
